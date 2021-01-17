@@ -1,4 +1,4 @@
-# php_projects
+# php
 
 1 AssciiArt 
 Practise using an integrated PHP/MySQL environment - MAMP
